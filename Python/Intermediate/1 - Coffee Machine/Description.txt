@@ -1,0 +1,8 @@
+The coffee machine has a finite amount of resources, which can be changed in the data.py file. These resources will be
+deducted when any type of coffee is made.
+
+When prompted, other than normal operations to make coffee, the user can enter the following "hidden" commands;
+
+report - to show a list of the current state of the resources.
+
+off - to turn off the machine.
