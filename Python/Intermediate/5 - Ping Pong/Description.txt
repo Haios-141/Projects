@@ -1,0 +1,15 @@
+Controls:
+
+====================================
+The left paddle:
+
+w - to move up
+
+s - to move down
+=====================================
+
+The right paddle:
+
+Up - to move up
+
+Down - to move down
