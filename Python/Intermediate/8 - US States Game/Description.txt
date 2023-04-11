@@ -1,0 +1,2 @@
+The user has to type in a US state, and if correct, the state name will appear on the map. If the user types 
+"Exit", a csv file will be created with all the names of all the states that they were unable to guess.
