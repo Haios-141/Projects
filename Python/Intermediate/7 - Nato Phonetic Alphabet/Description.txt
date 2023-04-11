@@ -1,0 +1,11 @@
+Every letter of the alphabet is associated with a single word that starts with that letter. When a word is inserted, 
+every letter of the word is replaced with the its associated word.
+
+input: Hello
+
+output:
+	Hotel
+	Echo
+	Lima
+	Lima
+	Oscar
