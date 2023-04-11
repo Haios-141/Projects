@@ -1,0 +1,10 @@
+There are two people, person A and person B. The user has to guess which person has a higher follower count. 
+If the guess is correct, person A, regardless of having a higher follower count or not, is removed from the game, and
+person B moves and becomes the new person A, who is compared against a new person B.
+
+
+!!!!!!!!!!
+If the program is run as is, the follower count of each person is shown. To play the game as is meant to, go through
+the code and follow the instructions in the comments of the following function wherever it appears;
+
+	display_info()
