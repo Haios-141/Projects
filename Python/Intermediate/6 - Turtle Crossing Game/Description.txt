@@ -1,0 +1,4 @@
+Use the "Up" direction key to move the turtle.
+
+The objective of the game is to cross the road and avoid getting hit by the cars. The turtle can only move up, and 
+not in any other direction.
