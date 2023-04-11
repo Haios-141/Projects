@@ -1,0 +1,10 @@
+Controls:
+
+
+Up - to move up
+
+Down - to move down
+
+Left - to move left
+
+Right - to move right
