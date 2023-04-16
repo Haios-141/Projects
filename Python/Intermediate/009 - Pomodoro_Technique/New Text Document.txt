@@ -1,0 +1,10 @@
+def bring_to_front():
+    # Restore if window is minimized
+    window.state("normal")
+    # Bring to top level above all windows
+    window.attributes("-topmost", True)
+    # Allows other windows to top level again
+    window.attributes("-topmost", False)
+
+
+I added an inport windsound with a winsound.Beep(1000, 1000) to be able to have a sound effect at the end of each cycle.
