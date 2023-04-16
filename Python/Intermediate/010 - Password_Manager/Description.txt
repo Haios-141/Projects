@@ -1,0 +1,2 @@
+The user provides the name of a website, along with the username/email and password.
+The information is stored on a JSON file.
