@@ -1,0 +1,7 @@
+A basic Japanese flash card program.
+
+The program presents the user with a Japanese word, which they have to guess, before being presented with the English
+word after 5 seconds.
+If the user got it right, they click on the checkmark, and if they got it wrong, they should click on the cross. 
+The words the user failed to get correct, or hadn't been presented with yet, will be saved to a new csv file, 
+which will be loaded the next time the program is loaded.
