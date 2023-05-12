@@ -1,0 +1,1 @@
+A project that uses Selenium to automatically play a web game called cookie clicker.
